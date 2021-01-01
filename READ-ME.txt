@@ -1,4 +1,4 @@
-  =>  Template Name    : EStore – eCommerce HTML Template
+  =>  Template Name    : EStore â€“ eCommerce HTML Template
 
   =>  Template Link    : https://htmlcodex.com/ecommerce-html-template
 
@@ -9,3 +9,4 @@
   =>  Author Website   : https://htmlcodex.com
 
   =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  rijin nambiar
